@@ -1,7 +1,8 @@
 # SAPHIR_GRAFANA_MONITOR
-+Documentation
-+Etat au 10/06/2025
-+Tests fonctiionnels
+# Plan
+*Documentation
+*Etat au 10/06/2025
+*Tests fonctiionnels
 
 # 🌐 Système de consultation des données météo - SAPHIR
 
